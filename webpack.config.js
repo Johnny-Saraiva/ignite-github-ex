@@ -6,15 +6,15 @@ const isDeveloper = process.env.NODE_ENV !== 'production';
 
 module.exports = {
   entry: path.resolve(__dirname, 'src', 'index.tsx'),
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'bundle.js'
+  },
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx'],
   },
   mode: isDeveloper ? 'development' : 'production',
   devtool: isDeveloper ? 'eval-source-map' : 'source-map',
-  output: {
-    path: path.resolve(__dirname, 'build'),
-    filename: 'bundle.js'
-  },
   devServer: {
     contentBase: path.resolve(__dirname, 'public'),
     hot: true,

@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img alt="Reactjs Template TS" title="Reactjs Template TS" src=".github/react-ts-wp.png" width="200px" />
+    <img alt="" title="" src="" width="200px" />
 </h1>
 
 <h1 align="center">
-   Template Reactjs Typescript with Webpack
+   Github Explorer
 </h1>
 
 <p align="center">
-<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Johnny-Saraiva/setup-template-typescript-react?color=blue">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/Johnny-Saraiva/ignite-github-ex?color=blue">
 <img alt="Made by Johnny" src="https://img.shields.io/badge/made%20by-Johnny Saraiva-%20?color=blue">
-<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Johnny-Saraiva/setup-template-typescript-react?color=blue">
-<img alt="GitHub license" src="https://img.shields.io/github/license/Johnny-Saraiva/setup-template-typescript-react?color=blue">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Johnny-Saraiva/ignite-github-ex?color=blue">
+<img alt="GitHub license" src="https://img.shields.io/github/license/Johnny-Saraiva/ignite-github-ex?color=blue">
 </p>
 
 <p align="center">
@@ -24,15 +24,14 @@
 <br>
 
 <p align="center">
-  <img alt="Reactjs Template TS" src=".github/react-ts.png" width="100%">
+  <img alt="" src="" width="100%">
 </p>
 
 <br>
 
 ## :computer: About the Project
 
-Reactjs template with all initial files configured for start a new project using:
-(TypeScript, Webpack, Babel, Eslint, Prettier and EditorConfig)
+Reactjs project with Typescript that uses the Github API to search repositories.
 
 ## :hammer: Technologies
 
@@ -51,10 +50,10 @@ Configured with:
 **Clone or Download the Repository**
 
 ```bash
-$ git clone https://github.com/Johnny-Saraiva/setup-template-typescript-react
+$ git clone https://github.com/Johnny-Saraiva/ignite-github-ex
 
 # Open template folfer:
-$ cd setup-template-typescript-react
+$ cd ignite-github-ex
 
 ```
 
