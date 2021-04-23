@@ -1,3 +1,5 @@
+import { RepositoryList } from './components/RepositoryList';
+
 export const App = () => {
-  return <h1>Github Explorer</h1>;
+  return <RepositoryList />;
 };
