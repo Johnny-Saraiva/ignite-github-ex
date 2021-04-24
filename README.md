@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src="" width="200px" />
+    <img alt="Github Explorer" title="Github Explorer" src=".github/logo.svg" width="200px" />
 </h1>
 
 <h1 align="center">
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img alt="Github Explorer" src=".github/github-explorer.gif" width="100%">
 </p>
 
 <br>
@@ -40,6 +40,7 @@ Configured with:
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Webpack](https://webpack.js.org/concepts/)
 -  [Babel](https://babeljs.io/)
+-  [Axios](https://github.com/axios/axios)
 -  [ESLint](https://eslint.org/)
 -  [Prettier](https://prettier.io/)
 -  [EditorConfig](https://editorconfig.org/)
@@ -94,4 +95,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for more in
 
 ---
 
-Made with ❤️  by Johnny Saraiva 👋 [Get in touch!](https://www.linkedin.com/in/johnny-saraiva-701641164/)
+Made with❤️ by Johnny Saraiva 👋 [Get in touch!](https://www.linkedin.com/in/johnny-saraiva-701641164/)
