@@ -55,7 +55,12 @@ export function Repository() {
 
       <div className="repository-issue">
         {issues.map((issue) => (
-          <a key={issue.id} href={issue.html_url}>
+          <a
+            key={issue.id}
+            href={issue.html_url}
+            target="_blank"
+            rel="noreferrer"
+          >
             <div>
               <strong>{issue.title}</strong>
               <p>{issue.user.login}</p>
