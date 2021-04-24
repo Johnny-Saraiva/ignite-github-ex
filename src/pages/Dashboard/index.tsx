@@ -38,9 +38,6 @@ export function Dashboard() {
         (repo) => repo.full_name === newRepository,
       );
 
-      console.log('checkIfRepositoryExists', checkIfRepositoryExists);
-      console.log('newRepository', newRepository);
-
       if (checkIfRepositoryExists) {
         setInputError('Repository already searched.');
         return;
